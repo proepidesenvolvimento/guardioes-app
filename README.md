@@ -9,10 +9,13 @@
 </p>
 
 <br> 
+<div align="center">
 
 [![NPM Version][npm-image]][npm-url]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/proepidesenvolvimento/guardioes-app/blob/master/LICENSE.md)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
+
+</div>
 
 ## Ambiente de Desenvolvimento
 
