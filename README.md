@@ -17,6 +17,22 @@
 
 </div>
 
+## Overview
+- **[Telas](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#telas)** 
+- **[Ambiente de Desenvolvimento](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#ambiente-de-desenvolvimento)**
+- **[Releases](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#release-history)**
+- **[Contribuindo](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#contribuindo)**
+- **[License & copyright](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#license--copyright)**
+
+----
+
+## Telas
+
+<p align="center">
+   <img src="https://im.ezgif.com/tmp/ezgif-1-8f699f922038.gif" alt="Guardiões da Saúde">
+</p>
+
+
 ## Ambiente de Desenvolvimento
 
 ### Baixando e Configurando Variáveis de Ambiente
