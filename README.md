@@ -1,15 +1,18 @@
 <p align="center">
    <a href="https://linktr.ee/guardioesdasaude">
       <img width="340" height="242" src="https://raw.githubusercontent.com/proepidesenvolvimento/guardioes-app/feature/UpdateReadme/doc/logo-pt-comum.png" alt="Guardiões da Saúde">
-   <a/>
+   </a>
 </p>
 
+<p align="center">
+  O Guardiões da Saúde é um aplicativo de vigilância participativa, tem como objetivo a capacidade e fortalecimento de detecção de surtos e emergências em saúde      pública.
+</p>
+
+<br> 
 
 [![NPM Version][npm-image]][npm-url]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/proepidesenvolvimento/guardioes-app/blob/master/LICENSE.md)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
-
-*O Guardiões da Saúde é um aplicativo de vigilância participativa, tem como objetivo a capacidade e fortalecimento de detecção de surtos e emergências em saúde pública. Foi utilizado pela primeira vez em 2014 durante a Copa do Mundo FIFA e já teve várias versões com apoio de diferentes parceiros.*
 
 ## Ambiente de Desenvolvimento
 
