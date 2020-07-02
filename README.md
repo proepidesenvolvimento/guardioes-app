@@ -18,11 +18,11 @@
 </div>
 
 ## Overview
-- **[Telas](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#telas)** 
-- **[Ambiente de Desenvolvimento](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#ambiente-de-desenvolvimento)**
-- **[Releases](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#release-history)**
-- **[Contribuindo](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#contribuindo)**
-- **[License & copyright](https://github.com/proepidesenvolvimento/guardioes-app/blob/feature%2FUpdateReadme/README.md#license--copyright)**
+- **[Telas](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#telas)** 
+- **[Ambiente de Desenvolvimento](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#ambiente-de-desenvolvimento)**
+- **[Releases](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#release-history)**
+- **[Contribuindo](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#contribuindo)**
+- **[License & copyright](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#license--copyright)**
 
 ----
 
