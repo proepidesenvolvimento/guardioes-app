@@ -29,7 +29,7 @@
 ## Telas
 
 <p align="center">
-   <img src="https://im.ezgif.com/tmp/ezgif-1-8f699f922038.gif" alt="Guardiões da Saúde">
+   <img src="https://raw.githubusercontent.com/proepidesenvolvimento/guardioes-app/feature/UpdateReadme/doc/gif-telas.gif" alt="Guardiões da Saúde">
 </p>
 
 
