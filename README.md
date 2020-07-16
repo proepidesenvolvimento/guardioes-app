@@ -19,6 +19,7 @@
 
 ## Overview
 - **[Telas](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#telas)** 
+- **[Baixar última versão do app](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#como-baixar-a-%C3%BAltima-vers%C3%A3o-do-app)**
 - **[Ambiente de Desenvolvimento](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#ambiente-de-desenvolvimento)**
 - **[Contribuindo](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#contribuindo)**
 - **[License & copyright](https://github.com/proepidesenvolvimento/guardioes-app/tree/feature/UpdateReadme#license--copyright)**
