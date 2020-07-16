@@ -31,6 +31,13 @@
    <img src="https://raw.githubusercontent.com/proepidesenvolvimento/guardioes-app/feature/UpdateReadme/doc/gif-telas.gif" alt="Guardiões da Saúde">
 </p>
 
+## Como baixar a última versão do app
+
+Por enquanto o procedimento funciona apenas para celulares android.
+
+Entre em [releases](https://github.com/proepidesenvolvimento/guardioes-app/releases) e procure pelo link com uma tag verde chamada 'lastest release'. Ao encontrar, desinstale o aplicativo que já está no seu celular (caso exista) e baixe o arquivo 'app-release.apk'.
+
+Possivelmente essa versão tem bugs que serão consertados no futuro e é instável, ou seja, pode dar erros.
 
 ## Ambiente de Desenvolvimento
 
