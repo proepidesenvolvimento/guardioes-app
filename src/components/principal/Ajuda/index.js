@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import { Help, Box, Button, IconWrapper, InfoWrapper, Title } from './styles';
 
-import { TermsIcon, TutorialIcon } from '../../../imgs/imageConst';
+import { TermsIcon, FAQIcon, TutorialIcon } from '../../../imgs/imageConst';
 import { scale } from '../../../utils/scallingUtils';
 import translate from "../../../../locales/i18n";
 
@@ -23,6 +23,19 @@ class Ajuda extends Component {
                         <InfoWrapper>
                             <Title>
                                 {translate("ajuda.useTermsBtn")}
+                            </Title>
+                        </InfoWrapper>
+                    </Button>
+                </Box>
+
+                <Box>
+                    <Button onPress={() => navigate('FAQ')}>
+                        <IconWrapper>
+                            <FAQIcon height={scale(45)} width={scale(45)} />
+                        </IconWrapper>
+                        <InfoWrapper>
+                            <Title>
+                                {translate("ajuda.FAQBtn")}
                             </Title>
                         </InfoWrapper>
                     </Button>

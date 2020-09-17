@@ -100,6 +100,7 @@ export default {
     },
     "ajuda": {
         "title": "Ayuda",
+        "FAQBtn": "FAQ",
         "useTermsBtn": "Condiciones y Políticas",
         "tutorialBtn": "Tutorial"
     },

@@ -22,6 +22,7 @@ import Mapa from '../principal/Mapa';
 import Perfis from '../principal/Perfis';
 import EditarPerfil from '../principal/EditarPerfil';
 import Ajuda from '../principal/Ajuda';
+import FAQ from '../principal/FAQ';
 import Tutorial from '../principal/Tutorial';
 import TermosPoliticas from '../principal/TermosPoliticas';
 import Rumor from '../principal/Rumor';
@@ -111,10 +112,11 @@ export const Stack = createStackNavigator({
     Household,
     Perfis,
     EditarPerfil,
-    Ajuda,
-    TermosPoliticas,
     Rumor,
+    Ajuda,
+    FAQ,
     Tutorial,
+    TermosPoliticas,
     Sobre,
 },
     {
