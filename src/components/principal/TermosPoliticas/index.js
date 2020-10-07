@@ -9,6 +9,7 @@ class TermosPoliticas extends Component {
         title: translate("useTerms.title")
     }
 
+    
     render() {
         return (
             <ScrollViewStyled>

@@ -100,16 +100,21 @@ class Home extends Component {
     }
 
     newTermsPolicy = () => {
-        this.setState({ showTermsConsent: false })
+        // this.setState({ showTermsConsent: false })
 
         Alert.alert(
             Terms.title, Terms.text,
             [
-                { text: Terms.disagree, onPress: () => logoutApp(this.props.navigation), style: 'cancel' },
+                { text: Terms.disagree, onPress: () => this.updateUserTermsDisagree() },
                 { text: Terms.agree, onPress: () => this.updateUserTermsConsent() }
             ],
             { cancelable: false }
         );
+    }
+
+    updateUserTermsDisagree = () => {
+        logoutApp(this.props.navigation);
+        this.setState({ showTermsConsent: false })
     }
 
     onHeaderEventControl() { // rolê para acessar a drawer em uma função estática
@@ -158,6 +163,7 @@ class Home extends Component {
     }
 
     updateUserTermsConsent = async () => {
+        this.setState({ showTermsConsent: false })
         return fetch(`${API_URL}/users/${this.state.userID}`, {
             method: 'PATCH',
             headers: {
